@@ -3,6 +3,8 @@
 # sets juga mendukung for loop dalam pengoperasiannya
 # namun perbedaannya adalah sets bersifat unordered (tidak memiliki index)
 # sets didefinisikan dengan menggunakan tanda kurung kurawal {}
+# sets tidak bisa memiliki data yang sama
+# jika ada data yang sama, maka data tersebut akan dianggap hanya 1 data
 
 # ada beberapa method yang bisa digunakan untuk memanipulasi sets
 # 1. add()
